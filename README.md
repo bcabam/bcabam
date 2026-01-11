@@ -33,8 +33,8 @@
 ###  🥽 Laboratorio
 | 👾 Repositorio | 🧠 Objetivo del Desafío |
 | :--- | :--- |
-| **[desafio1](https://github.com/bcabam/desafio1)** | Fortalecer la lógica de programación y el uso fundamental de React. |
-| **[desafio2](https://github.com/bcabam/desafio2)** | Dominio de manipulación del DOM y flujos de trabajo en desarrollo web. |
-| **[desafio3](https://github.com/bcabam/desafio3)** | Práctica de React Router y un poco de desarrollo Front-End. |
+| **[desafio1](https://bcabam.github.io/desafio1/)** | Fortalecer la lógica de programación y el uso fundamental de React. |
+| **[desafio2](https://bcabam.github.io/desafio2/)** | Dominio de manipulación del DOM y flujos de trabajo en desarrollo web. |
+| **[desafio3](https://bcabam.github.io/desafio3/)** | Práctica de React Router y un poco de desarrollo Front-End. |
 
 ---
