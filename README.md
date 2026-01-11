@@ -9,34 +9,34 @@
 
 ### 🏆 Proyecto Principal
 <a href="https://github.com/bcabam/app_deprueba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=app_deprueba&theme=tokyonight&show_owner=true" width="100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=app_deprueba&theme=tokyonight&show_owner=true&v=1" width="100%" />
 </a>
 
 <br/>
 
-### 📚 Proyectos:
+### 📚 Mis Proyectos:
 <table>
   <tr>
     <td>
       <a href="https://github.com/bcabam/desafio1">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio1&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio1&theme=tokyonight&v=1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/bcabam/desafio2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio2&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio2&theme=tokyonight&v=1" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/bcabam/desafio3">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio3&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=desafio3&theme=tokyonight&v=1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/bcabam/app_deprueba">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=app_deprueba&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bcabam&repo=app_deprueba&theme=tokyonight&v=1" />
       </a>
     </td>
   </tr>
