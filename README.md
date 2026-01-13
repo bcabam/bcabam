@@ -1,7 +1,7 @@
 # 你好！很高兴在这里见到你。请看看我的项目！ <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/E42H2EWbgjkAAAAd/overwatch-potg.gif" alt="Brigitte" width="50%" />
+  <img src="https://media1.tenor.com/m/E42H2EWbgjkAAAAd/overwatch-potg.gif" alt="Brigitte" width="75%" />
 </p>
 
 ## Acerca de mi...<br>
