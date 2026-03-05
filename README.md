@@ -1,7 +1,7 @@
 # 你好！很高兴在这里见到你。请看看我的项目！ <br><br>
 
 <p align="center">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3M1MzRxcjU2dnowMDIxNjM3bGNzNXduc3h2eWQ1NnZjYWxiOTBhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/458eor8f8mm9Pe7tPP/giphy.gif]" alt="Sombra" width="75%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3M1MzRxcjU2dnowMDIxNjM3bGNzNXduc3h2eWQ1NnZjYWxiOTBhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/458eor8f8mm9Pe7tPP/giphy.gif" alt="Sombra" width="75%" />
 </p>
 
 ## Acerca de mi...<br>
