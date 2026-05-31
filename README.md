@@ -1,13 +1,13 @@
-# 你好！很高兴在这里见到你。请看看我的项目！ <br><br>
+# 你好！Bienvenid@s a mi perfil. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/PBcn0E8_yQEAAAAd/sombra-that%27s-rad.gif" alt="Sombra" width="75%" />
+  <img src="https://media1.tenor.com/m/PGsOZ-QCCSIAAAAd/dbd-springtrap.gif" alt="springtrap" width="75%" />
 </p>
 
 ## Acerca de mi...<br>
-- 💻 Actualmente me encuentro trabajando en proyectos basados en **JavaScript**, pero estoy expandiendo mis conocimientos.<br>
-- 🌱 Estoy en constante aprendizaje sobre el idioma chino mandarín y la programación en general.<br>
-- 🪆 En mis tiempos libres hago distintas actividades, entre ellas siempre escucho música.
+> 💻 Actualmente trabajo en proyectos basados en **JavaScript**, aunque puedo programar en otros lenguajes.<br>
+> 🌱 Estoy en constante aprendizaje sobre _chino mandarín_, _ruso_, _irlandés_, _sueco_ y la programación en general.<br>
+> 🪆 Escucho música todo el día, también tengo una fascinación irracional por las galletas.
 
 
 ### 🌐 Contacto:
@@ -25,7 +25,7 @@
 ### ★ Proyecto Principal: app_deprueba
 | 🪄 [app_deprueba](https://github.com/bcabam/app_deprueba) |
 | :--- |
-| **Descripción:** Página web interactiva desarrollada en React con fines prácticos. |
+| **Descripción:** Primera página web interactiva desarrollada en JavaScript y React con fines prácticos. |
 | **Tecnologías:** JavaScript, React, Vite, CSS3. |
 
 <br/>
