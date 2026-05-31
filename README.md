@@ -1,13 +1,13 @@
-# 你好！Bienvenid@s a mi perfil. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ <br><br>
+# 你好！Bienvenid@ a mi perfil. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/7Z9c72nCQHkAAAAC/dbd-the-krasue.gif" alt="krasue" width="60%" />
+  <img src="https://media1.tenor.com/m/7Z9c72nCQHkAAAAC/dbd-the-krasue.gif" alt="krasue" width="50%" />
 </p>
 
 ## Acerca de mi...<br>
 > 💻 Actualmente trabajo en proyectos basados en **JavaScript**, aunque me están enseñando a programar en otros lenguajes y lógicas.<br>
 > 🌱 Estoy en constante aprendizaje sobre _chino mandarín_, _ruso_, _irlandés_ y _sueco_.<br>
-> 🪆 Escucho música todo el día, mis artistas favoritos son: **Bring Me The Horizon**, **Billie Eilish**, **Red Velvet**, entre otros. Además, tengo una fascinación (irracional) por las galletas.
+> 🪆 Escucho música todo el día, mis artistas favoritos son: **Bring Me The Horizon**, **Billie Eilish**, **Red Velvet**, entre otros. Además, tengo una fascinación (irracional) por las galletas... no me den galletas si me ven en la calle.
 
 
 ### 🌐 Contacto:
