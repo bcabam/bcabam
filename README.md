@@ -3,7 +3,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="40%" align="center" style="border: none;">
-      <img src="https://media1.tenor.com/m/x9efZijA7aYAAAAC/fsh-spin.gif" alt="gif-animado" width="100%" style="border-radius: 10px;" />
+      <img src="https://media1.tenor.com/m/8TxKKWhJO-MAAAAd/my-chemical-romance-the-black-parade.gif" alt="gif-animado" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" style="border: none; padding-left: 20px;">
       <h2>Acerca de mi...</h2>
@@ -31,13 +31,18 @@
 ## 🚀 Mis Proyectos
 
 ### 👥 Proyectos en Equipo
-| 🏛️ [SGR / Sistema de Gestión de Resultados](https://github.com/tu-usuario/sgr) |
+| 🏛️ [SGR / Sistema de Gestión de Resultados](https://github.com/bcabam/SGR) |
 | :--- |
 | **Descripción:** Sistema web responsivo para la Ilustre Municipalidad de La Serena. Implementa prácticas de seguridad OWASP Top 10 y gestión de bases de datos relacionales. |
 | **Tecnologías:** PHP, MySQL, CSS. |
 
+| 🏛️ [BackEnd - API RESTFUL](http://github.com/bcabam/ES1_Backend) |
+| :--- |
+| **Descripción:** Aplicación web de gestión académica escolar con control de acceso mediante perfiles de usuario. Expone una API RESTful documentada en Swagger con autenticación JWT. |
+| **Tecnologías:** Python, Django, Django REST Framework, MySQL, Bootstrap 5. |
+
 ### 👤 Proyectos en Solitario
-| 🏋️ [FrontEnd-SportClub-Caba](https://github.com/tu-usuario/FrontEnd-SportClub-Caba) |
+| 🏋️ [FrontEnd-SportClub-Caba](https://github.com/bcabam/FrontEnd-SportClub-Caba) |
 | :--- |
 | **Descripción:** Dashboard de gestión para gimnasios con autenticación multirrol (Usuario, Entrenador, Administrador) desplegado en GitHub Pages. |
 | **Tecnologías:** JavaScript, React, HTML5, CSS. |
