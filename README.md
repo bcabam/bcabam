@@ -8,9 +8,9 @@
     <td width="60%" style="border: none; padding-left: 20px;">
       <h2>Acerca de mi...</h2>
       <blockquote>
-        <p>💻 Actualmente trabajo en proyectos basados en <strong>JavaScript</strong> y <strong>PHP</strong>, aunque me están enseñando a programar en otros lenguajes y lógicas.</p>
-        <p>🌱 Estoy en constante aprendizaje sobre <em>chino mandarín</em>, <em>ruso</em> e <em>irlandés</em>.</p>
-        <p>🪆 Escucho música todo el día, mis artistas favoritos son: <strong>Bring Me The Horizon</strong>, <strong>Billie Eilish</strong>, <strong>Red Velvet</strong>, <strong>MCR</strong>, entre otros. Además, tengo una fascinación (irracional) por las galletas... no me den galletas si me ven en la calle.</p>
+        <p>🧑🏽‍💻 Actualmente trabajo en proyectos basados en <strong>JavaScript</strong> y <strong>PHP</strong>, aunque me están enseñando a programar en otros lenguajes y lógicas.</p>
+        <p>🌱 Estoy en constante aprendizaje sobre <em>chino mandarín</em> y otros idiomas en su nivel básico.</p>
+        <p>🩻 Escucho música todo el día, mis artistas favoritos son: <strong>Bring Me The Horizon</strong>, <strong>Billie Eilish</strong>, <strong>Red Velvet</strong>, <strong>My Chemical Romance</strong>, entre otros. Además, tengo una fascinación (irracional) por las galletas... no me den galletas si me ven en la calle.</p>
       </blockquote>
       <br>
       <b>🌐 Contacto:</b><br>
